@@ -1,0 +1,31 @@
+# GLOBAL PROMPT LOCKS – Parametry, których NIGDY nie ruszaj
+
+## Techniczne (dla Grok/Midjourney/SDXL)
+--ar 3:4
+--style raw
+--cw 100
+--stylize 300
+
+## Spójność postaci
+same face as reference
+exact same [cecha 1], [cecha 2]
+consistent character design
+—cref [LINK]  # wklej aktualny link do referencji
+
+## Spójność stylu
+no style drift
+consistent art style throughout the comic
+detailed yet stylized
+
+## Negatywy globalne
+no style shift
+no different artist
+no blurry face
+no deformed hands
+no extra limbs
+no realistic photo
+no 3d render
+no chibi
+no anime eyes unless specified
+
+*Ten plik jest święty. Nie edytuj bez konsultacji z consistency_log.md*
