@@ -37,3 +37,14 @@
 ---
 
 ## 🔥 STYLE CORE – Gotowy blok do kopiowania w każdy prompt
+[styl główna fraza], lineart [typ], [shading type], moody cinematic lighting, color palette [kolory], detailed yet stylized, consistent art style throughout the comic, no style drift, —sref [link/numer] —stylize [250-400]
+
+## 🚫 Negatywy – czego unikać
+style shift, different artist, blurry face, deformed hands, extra limbs, realistic photo, 3d render, chibi, anime eyes unless specified
+
+
+## 🔗 Globalne parametry techniczne
+--ar [proporcje, np. 3:4] --style [raw / expressive] --cw 100
+
+
+*Ostatnia aktualizacja: [DATA]*
