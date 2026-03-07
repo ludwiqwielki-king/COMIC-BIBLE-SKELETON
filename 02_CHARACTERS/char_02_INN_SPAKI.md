@@ -50,7 +50,7 @@ Maintain balance of time system. Help Toke-Ulf fix the glitch caused by the trap
 
 ## 🔗 AI REFERENCE TOKENS (CRITICAL)
 visual_keywords: "Inn Spaki, elderly wise man, white long beard, white hair, distinctive blue steampunk glasses, angular face, bright blue eyes, dark steampunk coat with brass fittings, leather suspenders, brass wrist devices, holding glowing blue meta-orb of time energy, contemplative expression, color palette #2c3e50 #8b4513 #00d2ff, same face as reference, exact same blue glasses, consistent character design"
-cref_link: "[PENDING - generate portrait first]"
+cref_link: "https://github.com/ludwiqwielki-king/COMIC-BIBLE-SKELETON/blob/main/02_CHARACTERS/refs/char_02_inn_spaki_ref.jpg?raw=true"
 sref_link: "[Use global sref from style_locks.md]"
 
 ## 📎 Visual References
