@@ -61,4 +61,4 @@ sref_link: "[PENDING – Link to global style reference]"
 - [Link to generated portrait once available]
 - [Notes: AI tends to age him too much – keep emphasis on "28yo" vs "weather-beaten"]
 
-*Status: draft – change to "locked" after successful portrait generation and test scenes*
+*status: "locked"*
