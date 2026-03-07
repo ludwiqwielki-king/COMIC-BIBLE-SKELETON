@@ -1,0 +1,116 @@
+# DZIENNIK SPÓJNOŚCI – consistency_log.md
+
+> Tu zapisujesz wszystkie odchylenia od Biblii i decyzje korekcyjne. To jest Twoja "patch notes" dla projektu.
+
+## Szablon wpisu
+```markdown
+### Scene [NUMER] – [KRÓTKI OPIS]
+- Data: [RRRR-MM-DD]
+- Generator: [Grok/Midjourney/SDXL]
+
+#### ✅ Co się udało (spójne z Biblią)
+- [ ] Postać [IMIĘ]: [cecha 1], [cecha 2]
+- [ ] Lokacja: [element świata]
+- [ ] Styl: [element artystyczny]
+
+#### ⚠️ Co się rozjechało (do poprawy)
+- [ ] Postać [IMIĘ]: [np. kolor oczu inny niż w Biblii]
+- [ ] Lokacja: [np. brak mgły, której wymaga World Bible]
+- [ ] Styl: [np. AI dodało anime eyes]
+
+#### 🔧 Podjęta korekta
+- [ ] Dodano "[konkretna fraza]" do prompt_lock dla [CHAR_ID]
+- [ ] Zaktualizowano `style_locks.md` o "[nowy parametr]"
+- [ ] Wygenerowano nową referencję `cref` dla [IMIĘ]
+
+#### 📎 Linki
+- Prompt: `05_SCENES/scene_XXX_prompt.txt`
+- Output: [link do wygenerowanego obrazu]
+- Poprawka: [link do wersji po korekcie]
+
+Pusty log = brak testów. Wypełniaj po każdej sesji generowania.
+
+---
+
+## 📄 `02_CHARACTERS/char_TEMPLATE.md`
+
+```markdown
+# CHARACTER BIBLE – [IMIĘ POSTACI]
+
+> Szablon karty postaci. Duplikuj dla każdej ważnej postaci. Wypełniaj SZCZEGÓŁOWO – AI nie domyśli się niczego.
+
+## 🔖 META
+char_id: "CHAR_[XX]_[NAZWA]"
+version: "v1.0"
+last_updated: "[RRRR-MM-DD]"
+status: "draft" / "locked"
+
+
+## 🪪 Podstawowe dane
+- **Pełna nazwa:** [Imię + pseudonim / kryptonim]
+- **Rola w historii:** [główny bohater / antagonista / sidekick / recurring / cameo]
+- **Wiek:** [biologiczny] / [wyglądający na]
+- **Płeć / tożsamość:** [opis]
+- **Proporcje ciała:** [wzrost, waga, sylwetka, np. "178 cm, 68 kg, smukła, długie nogi"]
+
+## 👁️ Wygląd stały – MUST-HAVE (bardzo szczegółowo!)
+### Twarz
+- Kształt: [owalna / kwadratowa / trójkątna itp.]
+- Oczy: [kolor, kształt, rozstaw, rzęsy]
+- Włosy: [kolor, długość, fryzura, przedziałek, grzywka, tekstura]
+- Skóra: [kolor, odcień, znamiona – piegi/blizny/tatuaże z LOKALIZACJĄ]
+- Najbardziej rozpoznawalny element: [np. "blizna biegnąca od lewego oka do żuchwy"]
+- Typowe wyrazy twarzy: [neutral / zły / uśmiech – słowa kluczowe]
+
+## 👕 Ubiór – wersja podstawowa (najczęściej noszona)
+- Góra: [opis]
+- Dół: [opis]
+- Buty: [opis]
+- Akcesoria stałe: [okulary, naszyjnik, broń, torba – z detalem]
+- Paleta kolorów stroju: [HEX lub nazwy, np. "#2c3e50, #95a5a6"]
+
+## 🔄 Alternatywne wersje stroju (numeruj)
+### Wersja 1: [casual / domowa]
+- [opis]
+
+### Wersja 2: [bojowa / kostium]
+- [opis]
+
+### Wersja 3: [historyczna / flashback]
+- [opis]
+
+## 🧠 Osobowość – 4-6 najsilniejszych cech (w kolejności ważności)
+1. [cecha]
+2. [cecha]
+3. [cecha]
+...
+
+### Wartości – granice postaci
+- **Nigdy nie:** [np. "nie zostawi sojusznika w niebezpieczeństwie"]
+- **Zawsze:** [np. "zawsze sprawdza tyły przed wejściem"]
+
+## 💔 Traumy / motywacje / cel nadrzędny
+- [opis]
+
+## 🎨 Kolorystyka emocjonalna postaci
+| Stan | Kolory / oświetlenie |
+|------|---------------------|
+| Spokój / neutral | [np. "soft blue ambient, low contrast"] |
+| Złość / walka | [np. "red rim light, hard shadows"] |
+| Smutek / introspekcja | [np. "desaturated, single spotlight"] |
+| Radość / ulga | [np. "warm gold backlight, lens flare"] |
+
+---
+
+## 🔗 AI REFERENCE TOKENS (NAJWAŻNIEJSZE – nie pomijaj!)
+visual_keywords: "[imię], [wiek], [dokładny opis wyglądu], [strój], same face as reference, exact same freckles pattern, identical hairstyle, consistent character design"
+cref_link: "[wklej link do portretu referencyjnego – wygeneruj go wcześniej!]"
+sref_link: "[opcjonalnie: link do stylu]"
+seed_value: "[opcjonalnie]"
+
+
+## 📎 Referencje wizualne
+- [Link do obrazu / opis numeru sref / cref który najlepiej działa]
+- [Dodatkowe notatki: co AI dobrze interpretuje, co przekręca]
+
+*Status: [draft / locked] – po zablokowaniu nie zmieniaj bez aktualizacji version!*
