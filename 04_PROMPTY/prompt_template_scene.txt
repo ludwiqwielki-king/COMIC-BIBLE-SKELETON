@@ -1,0 +1,31 @@
+# SCENE PROMPT TEMPLATE
+# Wypełnij [W NAWIASACH], resztę zostaw jak jest.
+
+## USER INPUT
+[Opis akcji/sceny w 1-2 zdaniach, np. "Jan wchodzi do ciemnej alei, widzi cień na ścianie"]
+
+## POSTACIE W SCENIE
+[Dla każdej postaci: wklej visual_keywords + cref_link z jej Character Bible]
+Przykład:
+"Jan, 30yo, man with scar on left cheek, short dark hair, worn leather jacket, white t-shirt, same face as reference, exact same freckles pattern, identical hairstyle, consistent character design, —cref [LINK] —cw 100"
+
+## LOKACJA + KONTEKST ŚWIATA
+[Wklej world_keywords + opis atmosfery z World Bible]
+Przykład:
+"rain-slicked alley, neon reflections in puddles, fog, brutalist concrete walls, perpetual dusk"
+
+## KOMPOZYCJA (opcjonalnie, ale zalecane)
+[Shot size, kąt kamery, emocje, np. "medium shot, low angle, tense atmosphere, chiaroscuro lighting"]
+
+## STYLE CORE (kopiuj 1:1 z style_locks.md)
+[polish modern comic book style, clean lineart + soft cel shading, vibrant yet moody colors, moody cinematic lighting, color palette [#1a1a2e,#16213e,#e94560], detailed yet stylized, consistent art style throughout the comic, no style drift, —sref [LINK] —stylize 300]
+
+## GLOBAL LOCKS (kopiuj z prompt_lock.txt)
+[--ar 3:4 --style raw --cw 100]
+
+## NEGATIVES (kopiuj z style_locks.md)
+[no style shift, no different artist, no blurry face, no deformed hands, no extra limbs, no realistic photo, no 3d render]
+
+---
+## GOTOWY PROMPT (sklej powyższe w jedną linię, bez komentarzy)
+[Wklej tu finalną wersję do skopiowania w Grok/Midjourney]
