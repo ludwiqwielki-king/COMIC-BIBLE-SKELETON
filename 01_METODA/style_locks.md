@@ -48,7 +48,8 @@
 ---
 
 ## 🔥 STYLE CORE – Gotowy blok do kopiowania w każdy prompt
-dark fantasy surrealism with steampunk elements, diorama aesthetic on cork board with push pins and decorative brass machinery, cinematic lighting with god rays and volumetric fog, color palette #1a5f5a #0d3b3b #2dd4bf #00d2ff #f4d03f #8b4513, detailed yet stylized, consistent art style throughout the comic, no style drift, cork board frame with runes and steampunk elements, —sref "https://github.com/ludwiqwielki-king/COMIC-BIBLE-SKELETON/blob/main/02_CHARACTERS/refs/cover_v1.jpg?raw=true" —stylize 400
+dark fantasy surrealism with steampunk elements, diorama aesthetic on cork board with push pins and decorative brass machinery, cinematic lighting with god rays and volumetric fog, color palette #1a5f5a #0d3b3b #2dd4bf #00d2ff #f4d03f #8b4513, detailed yet stylized, consistent art style throughout the comic, no style drift, cork board frame with runes and steampunk elements, —sref "https://raw.githubusercontent.com/ludwiqwielki-king/COMIC-BIBLE-SKELETON/refs/heads/main/02_CHARACTERS/refs/cover_v1.jpg" 
+—stylize 400
 
 ## 🚫 Negatywy – czego unikać
 style shift, different artist, blurry face, deformed hands, extra limbs, realistic photo, 3d render (unless specified), chibi, anime eyes, modern technology (except intentional anachronisms like shopping cart), clean minimalism (we want detailed diorama)
