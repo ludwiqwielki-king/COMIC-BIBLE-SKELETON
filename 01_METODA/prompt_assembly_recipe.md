@@ -4,6 +4,26 @@
 
 ## 🔄 KROKI
 
+## 📊 ZASADA SKALOWANIA SZCZEGÓŁÓW
+
+### Wide Shot / Epic Scene / Cover (panorama)
+- Postacie: 1-2 cechy rozpoznawcze (np. "viking warrior with scar")
+- Świat: 70% promptu (lokacja, atmosfera, kompozycja)
+- Diorama: 20% (ramka, elementy dekoracyjne)
+- Styl: 10%
+
+### Medium Shot (akcja/dialog)
+- Postacie: 30% (główne cechy z Biblii)
+- Akcja: 30% (co robią)
+- Świat: 30% (kontekst lokacji)
+- Diorama: 10%
+
+### Close-Up / Portrait (twarz/postać)
+- Postacie: 80% (WSZYSTKIE detale z Character Bible)
+- Emocje: 10% (wyraz twarzy, oświetlenie)
+- Świat: 5% (minimalny kontekst)
+- Diorama: 5%
+
 ### 1. Weź opis sceny od użytkownika
 [USER INPUT]: "Jan wchodzi do ciemnej alei, widzi cień na ścianie"
 
