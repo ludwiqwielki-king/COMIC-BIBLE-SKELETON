@@ -1,0 +1,1 @@
+#szablonu postaci
