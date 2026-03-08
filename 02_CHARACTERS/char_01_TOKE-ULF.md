@@ -50,28 +50,38 @@ Achieve Immortal Fame (Orðstírr) – accomplish something so great (in battle,
 - Anger / Combat: Hard rim light, red-orange accent (#c0392b), high contrast, motion blur hints
 - Sadness / Introspection: Single cold spotlight, blue-gray ambient (#2c3e50), shallow depth of field
 
-## 👁️ VISUAL CORE (najważniejsze cechy – zawsze obecne)
-- body
-- face
-- outfit
+## 👁️ VISUAL CORE (ABSOLUTNIE MUST-HAVE – zawsze obecne)
+- Horizontal scar through LEFT eyebrow (never right, never vertical)
+- Freckles across nose and cheeks (visible in close-ups)
+- Shoulder-length dark blond hair with CENTER PART
+- Gray-blue almond-shaped eyes, deep-set under heavy brows
+- Leather tunic with metal fittings in #858279 gray
+- Pale weather-beaten skin tone (never tan, never pale-white)
 
-## 🎭 MOOD BOARD TOKENS (gotowe frazy do promptów)
-- Calm: "[fraza]"
-- Combat: "[fraza]"
-- Mysterious: "[fraza]"
+## 🎭 MOOD BOARD TOKENS (gotowe frazy do promptów – kopiuj w zależności od sceny)
+- Calm/Neutral: "focused melancholic expression, soft diffused light, misty background"
+- Combat/Tension: "intense gaze, hard rim light, dynamic pose, motion blur hints"
+- Mysterious/Revelation: "contemplative look, single spotlight, volumetric fog, glowing elements"
+- Storm/Action: "wind-blown hair, dramatic lighting, rain effects, low angle shot"
 
-## 🚫 DO NOT (czego AI NIE MA robić)
-- [np. "never change scar position"]
-- [np. "never remove freckles"]
-- [np. "never alter crown design"]
+## 🚫 DO NOT (czego AI NIE MA robić – blokady)
+- Never change scar position (always LEFT eyebrow, horizontal)
+- Never remove or reduce freckles (they are signature trait)
+- Never alter hair style (always center part, shoulder-length)
+- Never change eye color (always gray-blue, never green/brown/blue)
+- Never modernize outfit (always Norse leather tunic, no fantasy armor)
+- Never make him smile broadly (expression: focused/melancholic/stoic only)
+- Never change body proportions (168cm, athletic lean build)
 
 ## 🔗 AI REFERENCE TOKENS (rozbudowane)
-visual_keywords: "Toke-Ulf, 28yo Norse warrior, 168cm athletic build, pale weather-beaten skin with freckles, oval-angular face, high cheekbones, deep-set almond-shaped gray-blue eyes under heavy brows, shoulder-length dark blond hair with center part, horizontal scar through left eyebrow, dark green wolf tattoo on left forearm, focused melancholic expression, wearing leather tunic with metal fittings, Thorsberg-style trousers, turnshoe boots, sword belt, color palette #858279 #5E4A3B #E8E0D0, same face as reference, exact same scar position, identical wolf tattoo, consistent character design"
+visual_keywords: "Toke-Ulf, 28yo Norse warrior, 168cm lean athletic build, pale weather-beaten skin with visible freckles across nose and cheeks, oval-angular face with high cheekbones, deep-set almond-shaped gray-blue eyes under heavy brow ridges, shoulder-length dark blond hair with center part, horizontal scar through LEFT eyebrow, focused melancholic expression, wearing leather tunic with bronze metal fittings in #858279 gray, Thorsberg-style trousers #5E4A3B brown, turnshoe boots, sword belt, same face as reference, exact same scar position, identical freckle pattern, consistent character design"
 
 cref_link: ![toke](https://github.com/ludwiqwielki-king/COMIC-BIBLE-SKELETON/blob/main/02_CHARACTERS/refs/TOKE-ULF.jpg?raw=true)
 
-sref_link: "[PENDING – Link to global style reference]"
-style_weight: "--cw 100 --stylize 300"
+sref_link: ![cover](https://github.com/ludwiqwielki-king/COMIC-BIBLE-SKELETON/blob/main/02_CHARACTERS/refs/cover_v1.jpg?raw=true)
+
+style_params: "--cw 100 --stylize 300 --ar 3:4"
+
 ---
 
 ## 📎 Visual References
