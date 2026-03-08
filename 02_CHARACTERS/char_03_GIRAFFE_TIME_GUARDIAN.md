@@ -61,7 +61,9 @@ visual_keywords: "majestic giraffe with ornate golden crown, wise sad eyes, glow
 
 cave_painting_keywords: "prehistoric cave painting of giraffe with crown, hand prints on walls, anachronistic shopping cart nearby, holographic blue clock showing 26.01.2026, campfire in foreground, stalactites, ancient stone texture, glowing blue time seal"
 
-cref_link: "(https://github.com/ludwiqwielki-king/COMIC-BIBLE-SKELETON/blob/main/02_CHARACTERS/refs/char_03_giraffe_guardian_ref.jpg?raw=true)"
+cref_link: 
+![GIRAFFE](https://github.com/ludwiqwielki-king/COMIC-BIBLE-SKELETON/blob/main/02_CHARACTERS/refs/char_03_giraffe_guardian_ref.jpg?raw=true)
+
 sref_link: "[Use global sref from style_locks.md]"
 
 ## 📎 Visual References
