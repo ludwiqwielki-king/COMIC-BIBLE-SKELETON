@@ -46,19 +46,29 @@ Maintain balance of time system. Help Toke-Ulf fix the glitch caused by the trap
 - Anger / Combat: Rare - intense blue energy aura
 - Sadness / Introspection: Single spotlight, deep shadows
 
-## 👁️ VISUAL CORE (najważniejsze cechy – zawsze obecne)
-- Face
-- Outfit
+## 👁️ VISUAL CORE (ABSOLUTNIE MUST-HAVE – zawsze obecne)
+- Distinctive BLUE STEAMPUNK GLASSES (round frames, glowing blue lenses)
+- Long WHITE/GRAY FULL BEARD (reaching chest level)
+- WHITE/GRAY shoulder-length hair (slightly wavy)
+- Angular wise face with deep wrinkles
+- Bright BLUE EYES visible through glasses
+- Dark steampunk coat with brass fittings and leather suspenders
+- Always holding or near glowing BLUE META-ORB (energy sphere with lightning)
 
-## 🎭 MOOD BOARD TOKENS (gotowe frazy do promptów)
-- Calm: "[fraza]"
-- Combat: "[fraza]"
-- Mysterious: "[fraza]"
+## 🎭 MOOD BOARD TOKENS (gotowe frazy do promptów – kopiuj w zależności od sceny)
+- Calm/Wisdom: "contemplative expression, soft blue ambient light, holding meta-orb gently"
+- Teaching/Guiding: "pointing gesture, orb energy pulsing, knowing look, god rays from above"
+- Mysterious/Secret: "half-shadow on face, orb glowing intensely, intense gaze through glasses"
+- Power/Activation: "blue lightning from orb, energy aura around character, dramatic lighting"
 
-## 🚫 DO NOT (czego AI NIE MA robić)
-- [np. "never change scar position"]
-- [np. "never remove freckles"]
-- [np. "never alter crown design"]
+## 🚫 DO NOT (czego AI NIE MA robić – blokady)
+- Never change glasses style (always round steampunk blue glasses)
+- Never remove or shorten the beard (always long, full, white/gray)
+- Never alter eye color (always bright blue, visible through glasses)
+- Never modernize outfit (always steampunk coat with brass elements)
+- Never remove the meta-orb (always present or implied in scene)
+- Never make him young (always elderly, wise appearance)
+- Never change glasses color (always blue/teal glowing lenses)
 
 ## 🔗 AI REFERENCE TOKENS (rozbudowane)
 visual_keywords: "Inn Spaki, elderly wise man, white long beard, white hair, distinctive blue steampunk glasses, angular face, bright blue eyes, dark steampunk coat with brass fittings, leather suspenders, brass wrist devices, holding glowing blue meta-orb of time energy, contemplative expression, color palette #2c3e50 #8b4513 #00d2ff, same face as reference, exact same blue glasses, consistent character design"
@@ -66,8 +76,10 @@ visual_keywords: "Inn Spaki, elderly wise man, white long beard, white hair, dis
 cref_link: 
 ![INN](https://github.com/ludwiqwielki-king/COMIC-BIBLE-SKELETON/blob/main/02_CHARACTERS/refs/char_02_inn_spaki_ref.jpg?raw=true)
 
-sref_link: "[Use global sref from style_locks.md]"
-style_weight: "--cw 100 --stylize 300"
+sref_link: 
+![cover](https://github.com/ludwiqwielki-king/COMIC-BIBLE-SKELETON/blob/main/02_CHARACTERS/refs/cover_v1.jpg?raw=true)
+
+style_params: "--cw 100 --stylize 300 --ar 3:4"
 
 ---
 
