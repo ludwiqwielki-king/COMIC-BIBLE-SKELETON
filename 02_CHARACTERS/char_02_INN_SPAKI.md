@@ -46,15 +46,30 @@ Maintain balance of time system. Help Toke-Ulf fix the glitch caused by the trap
 - Anger / Combat: Rare - intense blue energy aura
 - Sadness / Introspection: Single spotlight, deep shadows
 
----
+## 👁️ VISUAL CORE (najważniejsze cechy – zawsze obecne)
+- Face
+- Outfit
 
-## 🔗 AI REFERENCE TOKENS (CRITICAL)
+## 🎭 MOOD BOARD TOKENS (gotowe frazy do promptów)
+- Calm: "[fraza]"
+- Combat: "[fraza]"
+- Mysterious: "[fraza]"
+
+## 🚫 DO NOT (czego AI NIE MA robić)
+- [np. "never change scar position"]
+- [np. "never remove freckles"]
+- [np. "never alter crown design"]
+
+## 🔗 AI REFERENCE TOKENS (rozbudowane)
 visual_keywords: "Inn Spaki, elderly wise man, white long beard, white hair, distinctive blue steampunk glasses, angular face, bright blue eyes, dark steampunk coat with brass fittings, leather suspenders, brass wrist devices, holding glowing blue meta-orb of time energy, contemplative expression, color palette #2c3e50 #8b4513 #00d2ff, same face as reference, exact same blue glasses, consistent character design"
 
 cref_link: 
 ![INN](https://github.com/ludwiqwielki-king/COMIC-BIBLE-SKELETON/blob/main/02_CHARACTERS/refs/char_02_inn_spaki_ref.jpg?raw=true)
 
 sref_link: "[Use global sref from style_locks.md]"
+style_weight: "--cw 100 --stylize 300"
+
+---
 
 ## 📎 Visual References
 - Based on cork board diorama images: elderly man with blue glasses holding glowing orb
