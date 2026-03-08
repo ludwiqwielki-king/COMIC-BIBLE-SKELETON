@@ -50,6 +50,24 @@ Achieve Immortal Fame (Orðstírr) – accomplish something so great (in battle,
 - Anger / Combat: Hard rim light, red-orange accent (#c0392b), high contrast, motion blur hints
 - Sadness / Introspection: Single cold spotlight, blue-gray ambient (#2c3e50), shallow depth of field
 
+## 👁️ VISUAL CORE (najważniejsze cechy – zawsze obecne)
+- [3-5 absolutnie kluczowych elementów które MUSZĄ być widoczne]
+
+## 🎭 MOOD BOARD TOKENS (gotowe frazy do promptów)
+- Calm: "[fraza]"
+- Combat: "[fraza]"
+- Mysterious: "[fraza]"
+
+## 🚫 DO NOT (czego AI NIE MA robić)
+- [np. "never change scar position"]
+- [np. "never remove freckles"]
+- [np. "never alter crown design"]
+
+## 🔗 AI REFERENCE TOKENS (rozbudowane)
+visual_keywords: "[pełny opis po angielsku, 150-200 słów]"
+cref_link: "[link]"
+sref_link: "[link do okładki]"
+style_weight: "--cw 100 --stylize 300"
 ---
 
 ## 🔗 AI REFERENCE TOKENS (CRITICAL – DO NOT SKIP)
