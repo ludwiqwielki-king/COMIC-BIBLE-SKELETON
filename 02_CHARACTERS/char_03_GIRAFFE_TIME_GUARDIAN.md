@@ -54,9 +54,23 @@ Return to present time / Fix the system error / Prevent timeline collapse. Needs
 - Distress / Trapped: Blue runic glow intensifies, crackling energy
 - Hope: Bright turquoise crystals activate, portal energy
 
----
+## 👁️ VISUAL CORE (najważniejsze cechy – zawsze obecne)
+- Body Proportions
+- Appearance
+- Details
+- Crown
 
-## 🔗 AI REFERENCE TOKENS (CRITICAL)
+## 🎭 MOOD BOARD TOKENS (gotowe frazy do promptów)
+- Calm: "[fraza]"
+- Combat: "[fraza]"
+- Mysterious: "[fraza]"
+
+## 🚫 DO NOT (czego AI NIE MA robić)
+- [np. "never change scar position"]
+- [np. "never remove freckles"]
+- [np. "never alter crown design"]
+
+## 🔗 AI REFERENCE TOKENS (rozbudowane)
 visual_keywords: "majestic giraffe with ornate golden crown, wise sad eyes, glowing blue runic symbols on forehead, brown and yellow spotted pattern, regal posture, time guardian, color palette #f4d03f #8b4513 #00d2ff, same giraffe design, exact same crown pattern, consistent character design"
 
 cave_painting_keywords: "prehistoric cave painting of giraffe with crown, hand prints on walls, anachronistic shopping cart nearby, holographic blue clock showing 26.01.2026, campfire in foreground, stalactites, ancient stone texture, glowing blue time seal"
@@ -65,6 +79,9 @@ cref_link:
 ![GIRAFFE](https://github.com/ludwiqwielki-king/COMIC-BIBLE-SKELETON/blob/main/02_CHARACTERS/refs/char_03_giraffe_guardian_ref.jpg?raw=true)
 
 sref_link: "[Use global sref from style_locks.md]"
+style_weight: "--cw 100 --stylize 300"
+
+---
 
 ## 📎 Visual References
 - Form 1: Cave painting with hand prints, shopping cart, holographic clock
