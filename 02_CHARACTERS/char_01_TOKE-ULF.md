@@ -51,7 +51,9 @@ Achieve Immortal Fame (Orðstírr) – accomplish something so great (in battle,
 - Sadness / Introspection: Single cold spotlight, blue-gray ambient (#2c3e50), shallow depth of field
 
 ## 👁️ VISUAL CORE (najważniejsze cechy – zawsze obecne)
-- [3-5 absolutnie kluczowych elementów które MUSZĄ być widoczne]
+- body
+- face
+- outfit
 
 ## 🎭 MOOD BOARD TOKENS (gotowe frazy do promptów)
 - Calm: "[fraza]"
@@ -64,18 +66,13 @@ Achieve Immortal Fame (Orðstírr) – accomplish something so great (in battle,
 - [np. "never alter crown design"]
 
 ## 🔗 AI REFERENCE TOKENS (rozbudowane)
-visual_keywords: "[pełny opis po angielsku, 150-200 słów]"
-cref_link: "[link]"
-sref_link: "[link do okładki]"
-style_weight: "--cw 100 --stylize 300"
----
-
-## 🔗 AI REFERENCE TOKENS (CRITICAL – DO NOT SKIP)
 visual_keywords: "Toke-Ulf, 28yo Norse warrior, 168cm athletic build, pale weather-beaten skin with freckles, oval-angular face, high cheekbones, deep-set almond-shaped gray-blue eyes under heavy brows, shoulder-length dark blond hair with center part, horizontal scar through left eyebrow, dark green wolf tattoo on left forearm, focused melancholic expression, wearing leather tunic with metal fittings, Thorsberg-style trousers, turnshoe boots, sword belt, color palette #858279 #5E4A3B #E8E0D0, same face as reference, exact same scar position, identical wolf tattoo, consistent character design"
 
 cref_link: ![toke](https://github.com/ludwiqwielki-king/COMIC-BIBLE-SKELETON/blob/main/02_CHARACTERS/refs/TOKE-ULF.jpg?raw=true)
 
 sref_link: "[PENDING – Link to global style reference]"
+style_weight: "--cw 100 --stylize 300"
+---
 
 ## 📎 Visual References
 - [Link to generated portrait once available]
