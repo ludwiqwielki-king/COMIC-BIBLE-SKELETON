@@ -54,7 +54,9 @@ Achieve Immortal Fame (Orðstírr) – accomplish something so great (in battle,
 
 ## 🔗 AI REFERENCE TOKENS (CRITICAL – DO NOT SKIP)
 visual_keywords: "Toke-Ulf, 28yo Norse warrior, 168cm athletic build, pale weather-beaten skin with freckles, oval-angular face, high cheekbones, deep-set almond-shaped gray-blue eyes under heavy brows, shoulder-length dark blond hair with center part, horizontal scar through left eyebrow, dark green wolf tattoo on left forearm, focused melancholic expression, wearing leather tunic with metal fittings, Thorsberg-style trousers, turnshoe boots, sword belt, color palette #858279 #5E4A3B #E8E0D0, same face as reference, exact same scar position, identical wolf tattoo, consistent character design"
-cref_link: "(https://github.com/ludwiqwielki-king/COMIC-BIBLE-SKELETON/blob/main/02_CHARACTERS/refs/TOKE-ULF.jpg?raw=true)"
+
+cref_link: ![toke](https://github.com/ludwiqwielki-king/COMIC-BIBLE-SKELETON/blob/main/02_CHARACTERS/refs/TOKE-ULF.jpg?raw=true)
+
 sref_link: "[PENDING – Link to global style reference]"
 
 ## 📎 Visual References
