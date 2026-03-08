@@ -110,6 +110,30 @@ seed_value: "[opcjonalnie]"
 
 
 ## 📎 Referencje wizualne
+
+### Scene 002 – Jaskinia, pierwsze spotkanie z żyrafą-malowidłem
+- Data: 2026-03-09
+- Generator: Grok
+
+#### ✅ Co się udało
+- [x] Kompozycja: cork board subtelna ramka (5%)
+- [x] Glitch elements: wózek sklepowy, holograficzny zegar 26.01.2026
+- [x] Żyrafa: malowidło z koroną, hand prints na ścianie
+- [x] Kryształy: turkusowe, świecące
+- [x] Oświetlenie: ognisko + god rays z otworu jaskini
+
+#### ⚠️ Co się rozjechało
+- [ ] Toke-Ulf: pojawiła się pełna broda (w Biblii: light stubble)
+- [ ] Twarz: nieco inna struktura niż w cref (ale nadal rozpoznawalny)
+
+#### 🔧 Podjęta korekta
+- [x] **Zaakceptowano ewolucję** – Toke-Ulf od teraz ma brodę (podróż, czas)
+- [ ] Zaktualizować `char_01_TOKE-ULF.md` → dodać "full beard" do VISUAL CORE
+- [ ] Od tej sceny wszystkie kolejne = Toke-Ulf z brodą (spójność w przód)
+
+#### 📎 Linki
+- Prompt: `04_PROMPTY/templates/wide_cinematic.md` (zmodyfikowany)
+- Output: `05_SCENES/scene_002_cave_meeting.md`
 - [Link do obrazu / opis numeru sref / cref który najlepiej działa]
 - [Dodatkowe notatki: co AI dobrze interpretuje, co przekręca]
 
