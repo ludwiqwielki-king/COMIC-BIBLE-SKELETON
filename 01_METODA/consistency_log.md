@@ -194,4 +194,19 @@ STATE_REPORT – Scene 005
 - Next action: Scene 006 (first time travel / arrival in new time)
 - Notes: Orb activation SUCCESSFUL! Energy effects working!
 
+STATE_REPORT – Scene 006
+- Scene ID: 006
+- Function: Arrival (Toke-Ulf arrives in new time period, disoriented)
+- Panel type: Wide cinematic
+- Status: ✅ APPROVED
+- Visual anchors verified: 
+  - Toke-Ulf: beard ✅, kneeling posture ✅
+  - Meta-orb: present but dimly glowing ✅
+  - Portal: blue energy dissipating #00d2ff ✅
+  - Anachronism glitch: SHOPPING CART visible ✅
+  - Runes: floating blue symbols ✅
+- Deviations: NONE
+- Next action: Scene 007 (exploring new time / first encounter with new era)
+- Notes: ANACHRONISM TEST PASSED! Shopping cart perfectly subtle but visible. Time travel mechanics WORKING!WORKING!
+
 *Status: [draft / locked] – po zablokowaniu nie zmieniaj bez aktualizacji version!*
