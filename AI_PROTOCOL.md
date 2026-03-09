@@ -70,21 +70,22 @@ Next action: [what to do next]
 To pozwala następnemu modelowi kontynuować bez utraty kontekstu.
 
 [1/6] LOAD PROJECT_BIBLE ✅
-- style_locks.md: loaded (palette, lighting, diorama specs)
-- char_01_TOKE-ULF.md: loaded (VISUAL CORE: beard accepted, scar left eyebrow)
-- char_02_INN_SPAKI.md: loaded
+- style_locks.md: loaded
+- char_01_TOKE-ULF.md: loaded (beard accepted, scar left eyebrow)
+- char_02_INN_SPAKI.md: loaded (blue glasses, meta-orb, white beard)
 - char_03_GIRAFFE_TIME_GUARDIAN.md: loaded
-- world_bible_v1.0.md: loaded (Zatruta Rzeka Pamięci location)
-- narrative_visual_rules.md: loaded (function > action, one subject, anchors)
+- world_bible_v1.0.md: loaded
+- narrative_visual_rules.md: loaded
 
 [2/6] CONFIRM ROLE ✅
 Role: COMIC PANEL DESIGNER
-Task: Generate prompt for Scene 003 – "Zatruta Rzeka Pamięci" (first encounter)
+Task: Generate prompt for Scene 004 – "Inn Spaki gives meta-orb"
 
 [3/6] READ LATEST STATE ✅
 From consistency_log.md:
-- Scene 002: Toke-Ulf beard accepted as evolution (update Character Bible)
-- Diorama: subtle frame (5%) working correctly
-- Visual anchors: scar, crown, clock, crystals – all verified
+- Scene 003: Approved, 97% consistency
+- Toke-Ulf: Full beard locked as evolution
+- Visual anchors: All maintained (scar, crystals, clock)
+- Diorama: Subtle frame (5%) working
 
 [4/6] EXECUTE ASSIGNED TASK ✅
