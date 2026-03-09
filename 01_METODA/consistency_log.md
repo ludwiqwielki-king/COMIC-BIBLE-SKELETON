@@ -137,4 +137,25 @@ seed_value: "[opcjonalnie]"
 - [Link do obrazu / opis numeru sref / cref który najlepiej działa]
 - [Dodatkowe notatki: co AI dobrze interpretuje, co przekręca]
 
+### Scene 003 – Zatruta Rzeka Pamięci (Discovery)
+- Date: 2026-03-09
+- Generator: Grok
+- Template: wide_cinematic.md
+
+#### ✅ Co się udało
+- [x] Kompozycja: epic wide shot, Toke-Ulf w profilu (small in frame)
+- [x] Funkcja sceny: discovery/contemplation (nie akcja w trakcie)
+- [x] Visual anchors: scar, beard, crystals #2dd4bf, clock tower, portal
+- [x] Diorama: subtle frame (5%) – gears in corners only
+- [x] Spójność z Scene 002: beard maintained
+
+#### 🔧 Decyzje
+- [x] Beard accepted as permanent evolution (update char_01_TOKE-ULF.md)
+- [x] Profile shot works better than front view for this character
+
+#### 📎 Linki
+- Prompt: Used AI_PROTOCOL.md + wide_cinematic.md template
+- Output: 05_SCENES/scene_003_river_memory.md
+- Status: APPROVED
+
 *Status: [draft / locked] – po zablokowaniu nie zmieniaj bez aktualizacji version!*
