@@ -178,4 +178,14 @@ STATE_REPORT – Scene 004
 - Next action: Scene 005 (Toke-Ulf activates orb / first time travel)
 - Notes: FIRST successful 2-character scene! --cref system WORKING!
 
+STATE_REPORT – Scene 005
+- Scene ID: 005
+- Function: Transformation (Toke-Ulf activates meta-orb, first time travel signs)
+- Panel type: Surreal close-up
+- Status: [pending/approved/needs_rework]
+- Visual anchors verified: [scar/beard/orb #00d2ff/runes/crystals]
+- Deviations: [list any]
+- Next action: [Scene 006 planning / regenerate / approve]
+- Notes: First solo orb activation scene - time distortion effects test
+
 *Status: [draft / locked] – po zablokowaniu nie zmieniaj bez aktualizacji version!*
