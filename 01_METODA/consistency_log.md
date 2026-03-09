@@ -165,4 +165,17 @@ seed_value: "[opcjonalnie]"
 - Visual anchors: All maintained (scar, face structure)
 - --cref system: WORKING EFFECTIVELY
 
+STATE_REPORT – Scene 004
+- Scene ID: 004
+- Function: Transfer (Inn Spaki gives meta-orb to Toke-Ulf)
+- Panel type: Medium shot (2 characters)
+- Status: ✅ APPROVED
+- Visual anchors verified: 
+  - Toke-Ulf: scar (left brow), beard, face structure
+  - Inn Spaki: blue glasses, white beard, meta-orb #00d2ff
+  - World: crystals #2dd4bf, brass pipes, runic symbols
+- Deviations: NONE
+- Next action: Scene 005 (Toke-Ulf activates orb / first time travel)
+- Notes: FIRST successful 2-character scene! --cref system WORKING!
+
 *Status: [draft / locked] – po zablokowaniu nie zmieniaj bez aktualizacji version!*
