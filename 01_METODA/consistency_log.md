@@ -158,4 +158,11 @@ seed_value: "[opcjonalnie]"
 - Output: 05_SCENES/scene_003_river_memory.md
 - Status: APPROVED
 
+### Consistency Grid – Scene 001-003
+- Date: 2026-03-09
+- Verdict: 97% consistency
+- Major decision: Beard accepted as permanent evolution
+- Visual anchors: All maintained (scar, face structure)
+- --cref system: WORKING EFFECTIVELY
+
 *Status: [draft / locked] – po zablokowaniu nie zmieniaj bez aktualizacji version!*
