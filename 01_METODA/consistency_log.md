@@ -209,4 +209,19 @@ STATE_REPORT – Scene 006
 - Next action: Scene 007 (exploring new time / first encounter with new era)
 - Notes: ANACHRONISM TEST PASSED! Shopping cart perfectly subtle but visible. Time travel mechanics WORKING!WORKING!
 
+STATE_REPORT – Scene 008
+- Scene ID: 008
+- Function: Establishing (Toke-Ulf sees San Francisco for first time)
+- Panel type: Wide cinematic (16:9)
+- Status: ✅ APPROVED (Image 2)
+- Visual anchors verified: 
+  - Toke-Ulf: scar (left brow) ✅, beard ✅, orb ✅
+  - World: Golden Gate ✅, SF skyline ✅, fog Karl ✅
+  - Anachronism: shopping cart ✅
+  - Magic: turquoise crystals with runes ✅
+  - Diorama: cork board + gears + push pins ✅
+- Deviations: NONE
+- Next action: Scene 009 (encounter with drunk man)
+- Notes: DIORAMA + 16:9 WORKS! Character consistency maintained!
+
 *Status: [draft / locked] – po zablokowaniu nie zmieniaj bez aktualizacji version!*
