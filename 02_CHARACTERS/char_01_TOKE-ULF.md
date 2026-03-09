@@ -57,6 +57,9 @@ Achieve Immortal Fame (Orðstírr) – accomplish something so great (in battle,
 - Gray-blue almond-shaped eyes, deep-set under heavy brows
 - Leather tunic with metal fittings in #858279 gray
 - Pale weather-beaten skin tone (never tan, never pale-white)
+- Full beard (accepted evolution from Scene 002)
+- Horizontal scar through LEFT eyebrow (unchanged)
+- High cheekbones, angular jaw (unchanged)
 
 ## 🎭 MOOD BOARD TOKENS (gotowe frazy do promptów – kopiuj w zależności od sceny)
 - Calm/Neutral: "focused melancholic expression, soft diffused light, misty background"
