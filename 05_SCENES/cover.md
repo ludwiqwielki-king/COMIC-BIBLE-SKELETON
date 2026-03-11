@@ -1,0 +1,13 @@
+dark fantasy surrealism, polish modern comic book style, clean lineart + soft cel shading, MOODY ATMOSPHERE, DOMINANT COLOR PALETTE: Deep Teal #0d3b3b (60% of image), Turquoise Water #1a5f5a (25%), Crystal Blue #2dd4bf (10%), Giraffe Gold #f4d03f ONLY for giraffe and crown (5% accent), Leather Brown #8b4513, Parchment #e8e0d0, Wadmal Grey #858279, chiaroscuro lighting with god rays from above, perpetual dusk NEVER bright daylight, volumetric turquoise fog --
+
+"Toke-Ulf, 28yo Norse warrior with FULL BEARD dark blond, athletic lean build, pale weather-beaten skin with freckles, horizontal scar through LEFT eyebrow, shoulder-length dark blond hair with center part, leather tunic with bronze metal fittings in Wadmal Grey #858279" + --cref [https://raw.githubusercontent.com/ludwiqwielki-king/COMIC-BIBLE-SKELETON/main/02_CHARACTERS/refs/TOKE-ULF.jpg] --cw 100 --
+
+"epic cover composition, LOW ANGLE SHOT from left side: Viking wooden longship sailing diagonally across frame from left to right on turbulent mystical teal river #1a5f5a, Toke-Ulf standing on deck visible in THREE-QUARTER VIEW profile, behind him majestic giraffe with patterned coat in brown/gold tones with ornate golden crown #f4d03f (small accent), neck wrapped around huge ancient clock with Roman numerals, swirling DEEP TEAL #0d3b3b time portal with CRYSTAL BLUE #2dd4bf glow in clock center, rocky fjord mountains in dark teal #0d3b3b background, moonlight god rays, dramatic waves crashing, COOL COLOR TEMPERATURE dominant" --
+
+"diorama cork board frame with: brass steampunk drones in corners, ancient scrolls with runes, candles, glowing turquoise crystals #2dd4bf, antique push pins, handwritten notes, mechanical brass gears, vintage compass, scattered around edges 10% of composition" --
+
+"title text at top: 'TOKE-ULF: STRAŻNIK CZASU ŻYRAF' in bold golden letters #f4d03f, subtitle below: 'TOM 1: ZATRUTA RZEKA PAMIĘCI' in smaller text, date '26.01.2026' as runic engraving on cork frame" --
+
+--ar 3:4 --stylize 400 --cw 100 --style raw --
+
+--no clean-shaven, no frontal view of ship, no ship sailing directly at camera, no vertical scar, no scar on right eyebrow, no modern clothing, no fantasy plate armor, no bright daylight, no warm color temperature, no orange tones, no yellow dominance, no blurry face, no deformed hands, no extra fingers, no cartoon, no anime, no photorealistic, no bright colors, no vibrant yellow
